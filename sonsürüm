@@ -38,7 +38,9 @@ end)
 hdadminsection:NewButton("RemoteSpy", "RemoteSpy", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/berastladeidilberimyecerkonundangenb/kajsdhawkjdhkjahdak/main/arsizzg%C3%B6%C3%BClliflaolmuyooo"))()
 end)
-
+hdadminsection:NewButton("Isim silme","Isim silme", function()
+    game:GetService("Players").LocalPlayer.Character.Head.OverheadGui:Destroy()
+end)
 local credit = Window:NewTab("Credit")
 
 local Section2 = credit:NewSection("Cuersy#6627 / dats#4088")
