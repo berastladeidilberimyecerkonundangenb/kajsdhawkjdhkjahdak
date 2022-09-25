@@ -41,7 +41,7 @@ end)
 hdadminsection:NewButton("Isim silme","Isim silme", function()
     game:GetService("Players").LocalPlayer.Character.Head.OverheadGui:Destroy()
 end)
-hdadminsection:NewButton("Fate Admin", "Fate Admin" function ()
+hdadminsection:NewButton("Fate Admin", "Fate Admin", function ()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
 end)
 local credit = Window:NewTab("Credit")
